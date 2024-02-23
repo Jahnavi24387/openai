@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'virtucartopenai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F457D3092DF341E8A4FA3F6A5545875A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69C9B0B642E74F90B451FF65FFFC8D17 }}
